@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/Customer.h
+UTString.h
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/UTString.h
+
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/CustomerDB.cpp
+iostream
+-
+cassert
+-
+UTString.h
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/UTString.h
+CustomerDB.h
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/CustomerDB.h
+
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/CustomerDB.h
+UTString.h
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/UTString.h
+Customer.h
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/Customer.h
+
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/Project7.cpp
+stdio.h
+-
+UTString.h
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/UTString.h
+Customer.h
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/Customer.h
+CustomerDB.h
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/CustomerDB.h
+iostream
+-
+
+/cygdrive/c/Users/Adrian Gallegos/CLionProjects/Project 7/Project7_starter_files/UTString.h
+stdlib.h
+-
+stdint.h
+-
+
